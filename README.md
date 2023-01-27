@@ -1,5 +1,10 @@
 # Understanding TypeScript
 
+Aim: 
+- What TypeScript really is about and how it works
+- Know how to combine TypeScript with ReactJS or NodeJS / Express
+- Know TypeScript both in theory as well as applied to real use-cases and projects
+
 
 ## Getting Started 
 
@@ -10,7 +15,7 @@
 ## Advanced Types
 ## Generics 
 ## Decorators 
-## Build Drag and Drop project 
+## Building Drag and Drop project 
 ## Modules & Namespaces 
 ## Using Webpack with TypeScript
 ## 3rd Party Libraries & TypeScript
