@@ -31,6 +31,11 @@ button.addEventListener("click", function() {
 -  `tsc using-ts.ts` in ide where ts file is
 ![image](https://user-images.githubusercontent.com/104793540/215287188-a6e44a0a-9450-4ec7-b0c1-e68a8292142e.png)
 - fixed errors then ran  `tsc using-ts.ts`
+
+TypeScript Advantages:
+
+![image](https://user-images.githubusercontent.com/104793540/215287659-5541e30d-c1e2-49c5-aade-b3f3046e5b69.png)
+
 ## TypeScript Basics & Basic Types
 ## The TypeScript Compiler (and it's config)
 ## Next gen JavaScript & TypeScript
