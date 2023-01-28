@@ -7,6 +7,14 @@ Aim:
 
 
 ## Getting Started 
+![image](https://user-images.githubusercontent.com/104793540/215285561-ac73233e-a0c7-4f1f-a47a-ea637616becf.png)
+![image](https://user-images.githubusercontent.com/104793540/215285658-dfe30563-26e6-4898-baba-2cb3d5b9b97e.png)
+
+- https://www.typescriptlang.org/download
+- check if i have node with `node --version` and i do already
+- `npm install typescript --save-dev`
+
+![image](https://user-images.githubusercontent.com/104793540/215286621-0577ee1a-4f6f-4536-835f-89d51ee89eba.png)
 
 ## TypeScript Basics & Basic Types
 ## The TypeScript Compiler (and it's config)
