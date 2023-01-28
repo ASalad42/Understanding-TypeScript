@@ -36,6 +36,10 @@ TypeScript Advantages:
 
 ![image](https://user-images.githubusercontent.com/104793540/215287659-5541e30d-c1e2-49c5-aade-b3f3046e5b69.png)
 
+### Plan
+
+![image](https://user-images.githubusercontent.com/104793540/215287730-62d64ac2-974f-43db-8f4d-ac0c32f92514.png)
+
 ## TypeScript Basics & Basic Types
 ## The TypeScript Compiler (and it's config)
 ## Next gen JavaScript & TypeScript
