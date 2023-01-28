@@ -12,9 +12,24 @@ Aim:
 
 - https://www.typescriptlang.org/download
 - check if i have node with `node --version` and i do already
-- `npm install typescript --save-dev`
+- `npm install -g typescript`
 
-![image](https://user-images.githubusercontent.com/104793540/215286621-0577ee1a-4f6f-4536-835f-89d51ee89eba.png)
+```
+const button = document.querySelector("button");
+const input1 = document.getElementById("num1")! as HTMLInputElement;
+const input2 = document.getElementById("num2")! as HTMLInputElement;
+
+function add(num1: number, num2: number) {
+  return num1 + num2;
+}
+
+button.addEventListener("click", function() {
+  console.log(add(input1.value, input2.value));
+});
+
+```
+-  `tsc using-ts.ts` in ide where ts file is
+![image](https://user-images.githubusercontent.com/104793540/215287188-a6e44a0a-9450-4ec7-b0c1-e68a8292142e.png)
 
 ## TypeScript Basics & Basic Types
 ## The TypeScript Compiler (and it's config)
