@@ -41,7 +41,17 @@ TypeScript Advantages:
 ![image](https://user-images.githubusercontent.com/104793540/215287730-62d64ac2-974f-43db-8f4d-ac0c32f92514.png)
 
 ## TypeScript Basics & Basic Types
+
+### Core Data Types 
+- number 1,5.3, -10 all numbers, no diff between integers or floats
+- string "hi", 'hi' all text values 
+- boolean true, false  just these two, no "truthy" or "falsy" values
+
+
 ## The TypeScript Compiler (and it's config)
+
+
+
 ## Next gen JavaScript & TypeScript
 ## Classes & Interfaces
 ## Advanced Types
