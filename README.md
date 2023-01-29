@@ -59,6 +59,8 @@ x = ["hello", 10];
 
 ![image](https://user-images.githubusercontent.com/104793540/215333704-962b78a3-1823-45ef-8836-c7640c354d29.png)
 
+- made changes in app.ts in new terminal > then ran `tsc app.ts` > changes seen on localhost:3000 in browser
+
 ## The TypeScript Compiler (and it's config)
 
 
