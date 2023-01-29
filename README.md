@@ -42,10 +42,17 @@ TypeScript Advantages:
 
 ## TypeScript Basics & Basic Types
 
-### Core Data Types 
+### Basic Types 
+https://www.typescriptlang.org/docs/handbook/basic-types.html
+
 - number 1,5.3, -10 all numbers, no diff between integers or floats
 - string "hi", 'hi' all text values 
 - boolean true, false  just these two, no "truthy" or "falsy" values
+- array number [] = [1, 2, 3];
+- tuple lets you express an array with a fixed number of elements whose types are known
+let x: [string, number];
+x = ["hello", 10]; 
+
 
 
 ## The TypeScript Compiler (and it's config)
