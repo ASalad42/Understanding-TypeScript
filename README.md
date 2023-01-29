@@ -50,7 +50,9 @@ https://www.typescriptlang.org/docs/handbook/basic-types.html
 - boolean true, false  just these two, no "truthy" or "falsy" values
 - array number [] = [1, 2, 3];
 - tuple lets you express an array with a fixed number of elements whose types are known
+
 let x: [string, number];
+
 x = ["hello", 10]; 
 
 
