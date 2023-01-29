@@ -63,7 +63,9 @@ x = ["hello", 10];
 
 ## The TypeScript Compiler (and it's config)
 
-
+- tsconfig Docs: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+- Compiler Config Docs: https://www.typescriptlang.org/docs/handbook/compiler-options.html
+- VS Code TS Debugging: https://code.visualstudio.com/docs/typescript/typescript-debugging
 
 ## Next gen JavaScript & TypeScript
 ## Classes & Interfaces
