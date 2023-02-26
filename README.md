@@ -54,6 +54,10 @@ https://www.typescriptlang.org/docs/handbook/basic-types.html
 - tuple lets you express an array with a fixed number of elements whose types are known
 - enum {NEW, OLD} > added by ts: automatically enumerated global constant indetifiers
 
+![image](https://user-images.githubusercontent.com/104793540/221427473-e3f5f2c7-18a3-41bf-ac6f-8e35930efe5e.png)
+
+![image](https://user-images.githubusercontent.com/104793540/221427380-cfa99fb8-1714-41b9-94ac-62a73d27a089.png)
+
 let x: [string, number];
 
 x = ["hello", 10]; 
