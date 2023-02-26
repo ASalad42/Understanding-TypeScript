@@ -2,6 +2,7 @@
 
 Aim: 
 - What TypeScript really is about and how it works
+  - core task of typescript = checking types & yelling back at me if i use them incorrectly!
 - Know how to combine TypeScript with ReactJS or NodeJS / Express
 - Know TypeScript both in theory as well as applied to real use-cases and projects
 
