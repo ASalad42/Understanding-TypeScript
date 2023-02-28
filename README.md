@@ -74,6 +74,9 @@ x = ["hello", 10];
 - Compiler Config Docs: https://www.typescriptlang.org/docs/handbook/compiler-options.html
 - VS Code TS Debugging: https://code.visualstudio.com/docs/typescript/typescript-debugging
 
+- npm start > tsc app.ts - doing this all the time
+- better to have watch mode `tsc app.ts --watch`    `tsc app.ts -w`
+- 
 ## Next gen JavaScript & TypeScript
 ## Classes & Interfaces
 ## Advanced Types
