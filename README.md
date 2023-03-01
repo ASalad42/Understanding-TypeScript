@@ -89,3 +89,40 @@ x = ["hello", 10];
 ## Building Select and Share a Place app (incl google maps)
 ## React.js & TypeScript
 ## Node.js + Express & TypeScript
+
+
+Wednesday
+Credentials -  work on company email & phone 
+
+Aws access 
+
+Launch for April 
+
+Smg-services backend
+
+Subbly + tiktok shop > no integration 
+
+Two deployments  (), each update need to deploy 
+Functionally separate projects 
+Aim:
+•	(docker host, fargate)
+•	Dockerise and 
+•	Automate and deploy in same environment
+
+ew-tiktok-shop-shipstation >golang app, needs to be compiled but does need golang environment afrter 
+
+Env var:
+
+EW-Shipstation-split-order > nodejs app, does not need compling
+
+Copy github re
+Env var:
+
+Multiple orders come through as 1, split repo
+
+Thursday
+
+
+
+Friday
+
